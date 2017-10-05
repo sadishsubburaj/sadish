@@ -35,6 +35,5 @@ public class vowel
      }
      System.out.print(s1);
     
-    }
   }
 }
